@@ -118,7 +118,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fillrand.cpp" />
+    <ClCompile Include="function.cpp" />
+    <ClCompile Include="MaxMinAvgSum.cpp" />
+    <ClCompile Include="print.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

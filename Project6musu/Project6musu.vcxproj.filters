@@ -18,5 +18,25 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fillrand.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="print.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxMinAvgSum.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
